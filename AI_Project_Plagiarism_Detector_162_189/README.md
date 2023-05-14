@@ -1,0 +1,1 @@
+This project uses web scraping to get information from the internet in order to check for similarities in the context that has been submitted and to produce a report that displays the results of the links from where the similarity has been reported as well as the percentage of similarity in this plagiarism detector.
